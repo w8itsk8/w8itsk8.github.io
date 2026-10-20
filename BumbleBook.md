@@ -10,7 +10,15 @@ title: BumbleBook Book Inventory Application
 
 
 
-A book inventory application, specifically for a collection including multiple versions of the same book. 
+A book inventory application, specifically for a collection including multiple versions of the same book.
+
+
+
+\[Pre-Enhancement Program Code](https://github.com/w8itsk8/CS360-Final)
+
+
+
+\[Code Review Video](https://youtu.be/JsA9\_epdNeA)
 
 
 
