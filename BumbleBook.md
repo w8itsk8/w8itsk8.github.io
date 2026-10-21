@@ -17,8 +17,8 @@ Towards the end of our degree, all students at SNHU are required either to compl
 Of course, the capstone course wasn't a blanket, do whatever you'd like to prepare a nice artifact. The assignment was to make changes to previously existing projects proving skills in 3 areas: Software Design and Development, Algorithms and Data Structures, and Databases. I chose to make changes to the same application for each category: a mobile application for database display which I created for CS 360: Mobile Application Development. The application, BumbleBook, is specifically for the display of a database of books, including separate entries for multiple printings of the same book over multiple years and publishers. There is a log-in function, and had planned to add ways for the user to add, edit, and delete items in the database. 
 
 
-![Log-In Screen](images/BumbleBook/BB_Stills1.png)
-![Home Screen Leftmost View](images/BumbleBook/BB_Stills10.png)
+![Log-In Screen](images/BumbleBook/BB_Stills1.PNG)
+![Home Screen Leftmost View](images/BumbleBook/BB_Stills10.PNG)
 
 
 [Pre-Enhancement Program Code](https://github.com/w8itsk8/CS360-Final)
@@ -44,13 +44,13 @@ The first step was developing a plan to meet course requirements and complete a 
 I elected to fulfill requirements for the Software Design and Development by adding the originally planned functionality for making changes to the database. The version of the app turned in for my CS360 final project had three buttons for altering the database on the app's home screen (the main database display): "Add Book", "Edit Book", and "Delete Book". I started by adding code so that a user can tap a row in the displayed database to "select" that book. Selecting a book adds it to a temporary item and makes the edit and delete buttons functional. Tapping a record again de-selects that book and empties the contents of the temporary item. Next, I created the Add/Edit Book activity, a new screen in the app conjured when a user presses the "Add Book" button, or selects a record and presses the "Edit Book" button. This meant making an XML for the design of this new screen, and a Java file to define have the new activity interacts with the user and the home database. Lastly, I added functionality to the "Delete Book" button and a Toast pop-up for the user to confirm before they permanently delete that record.
 
 
-![Add/Edit Screen Upper - Unfilled](images/BumbleBook/BB_Stills4.png)
-![Add/Edit Screen Lower - Unfilled](images/BumbleBook/BB_Stills5.png)
+![Add/Edit Screen Upper - Unfilled](images/BumbleBook/BB_Stills4.PNG)
+![Add/Edit Screen Lower - Unfilled](images/BumbleBook/BB_Stills5.PNG)
 
 
 
-![Add/Edit Screen Upper - Filled](images/BumbleBook/BB_Stills8.png)
-![Add/Edit Screen Lower - Filled](images/BumbleBook/BB_Stills9.png)
+![Add/Edit Screen Upper - Filled](images/BumbleBook/BB_Stills8.PNG)
+![Add/Edit Screen Lower - Filled](images/BumbleBook/BB_Stills9.PNG)
 
 
 
@@ -58,12 +58,12 @@ Requirements for the Algorithms and Data Structures portion of the project were 
 
 
 
-![Genre Picker - No Checks](images/BumbleBook/BB_Stills6.png)
-![Genre Picker - Cascading Checks](images/BumbleBook/BB_Stills7.png)
+![Genre Picker - No Checks](images/BumbleBook/BB_Stills6.PNG)
+![Genre Picker - Cascading Checks](images/BumbleBook/BB_Stills7.PNG)
 
 
 
-![Home Screen - Rightmost View](images/BumbleBook/BB_Stills14.png)
+![Home Screen - Rightmost View](images/BumbleBook/BB_Stills14.PNG)
 
 
 
@@ -71,8 +71,8 @@ I fulfilled the last set of requirements, showing my skills with utilizing datab
 
 
 
-![Account Creation Error 1](images/BumbleBook/BB_Stills2.png)
-![Account Creation Error 2](images/BumbleBook/BB_Stills3.png)
+![Account Creation Error 1](images/BumbleBook/BB_Stills2.PNG)
+![Account Creation Error 2](images/BumbleBook/BB_Stills3.PNG)
 
 
 
@@ -80,11 +80,11 @@ I fulfilled the last set of requirements, showing my skills with utilizing datab
 
 
 
-![Home Screen - Leftmost View](images/BumbleBook/BB_Stills10.png)
-![Home Screen - Left Center View](images/BumbleBook/BB_Stills11.png)
-![Home Screen - Center View](images/BumbleBook/BB_Stills12.png)
-![Home Screen - Right Center View](images/BumbleBook/BB_Stills13.png)
-![Home Screen - Rightmost View](images/BumbleBook/BB_Stills14.png)
+![Home Screen - Leftmost View](images/BumbleBook/BB_Stills10.PNG)
+![Home Screen - Left Center View](images/BumbleBook/BB_Stills11.PNG)
+![Home Screen - Center View](images/BumbleBook/BB_Stills12.PNG)
+![Home Screen - Right Center View](images/BumbleBook/BB_Stills13.PNG)
+![Home Screen - Rightmost View](images/BumbleBook/BB_Stills14.PNG)
 
 
 
